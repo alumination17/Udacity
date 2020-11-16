@@ -1,5 +1,11 @@
 # UDACITY
 
+Udacity is an online platform with access to courses where programmers come to learn needed skills, to land wanted jobs.
+
+Currently over than 11,5 million users enrolled to courses devoted to Data Science, Algorithms and Data Structures, etc. Udacity has also an exclusive collaboration with Google to provide lifelong learners with free access to on-demand skills and relevant knowledge.
+
+This repository is intended to store solutons for various problems and quiz test solutions appearing in different Algorithms and Data Structures courses in Udacity.
+
 ## UDACITY’S INTELLECTUAL PROPERTY RIGHTS
 
 The Services are owned and operated by Udacity and its licensors. All content or other material available through the Services, including, but not limited to, information on the Websites, on-line lectures, speeches, video or other lessons, applications, pre-assessments and assessments, quizzes, presentation materials, homework assignments, programming assignments, programs, code, licenses, and other images, text, layouts, arrangements, displays, illustrations, documents, surveys, materials, audio and video clips, HTML, and files (collectively, the "Content"), are the property of Udacity and/or its affiliates or licensors and are protected by copyright, patent and/or other proprietary intellectual property rights under United States and foreign law.
