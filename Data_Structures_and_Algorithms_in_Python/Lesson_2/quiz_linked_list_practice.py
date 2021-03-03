@@ -31,7 +31,7 @@ class LinkedList(object):
         Assume the first position is "1".
         Return "None" if position is not in the list."""
         
-        current = self.head # current variable is set to the value of first element in a LinkedList
+        current = self.head # variable 'current' is set to the value of first element in a LinkedList
         counter = 1 # we need counter to track No of elements as we cannot return the length of LinkedList
 
         while current: # iterate through linked list until list won't end
